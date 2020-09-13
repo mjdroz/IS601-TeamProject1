@@ -8,5 +8,7 @@
 
 * **Examples and Uses**
 	* Forking with Git allows for developers to make changes to a project without running the risk of causing issues.
-	* Forking allows for community projects where amateur or even professional developers can give contribute to projects where they see fit. This allows project managers to ask the software development for help when their team runs into an issue that they are having trouble solving. It never hurts to get a spare set of eyes on your code!
+	* Forking allows for community projects where amateur or even professional developers can contribute towards projects where they see fit. This allows project managers to ask the software development for help when their team runs into an issue that they are having trouble solving. It never hurts to get a spare set of eyes on your code!
 	* Forking allows developers or even comapnies to use publicly available repositories for reference on projects that they may be working on as well.
+
+**Source Used for Information:** https://www.toolsqa.com/git/git-fork/
