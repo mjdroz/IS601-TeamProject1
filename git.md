@@ -1,5 +1,7 @@
 # How Git Improves the Productivity and Competitiveness of a Company
 
+![Image of Git Logo](https://miro.medium.com/max/1200/1*BCZkmZR1_YzDZy22Vn4uUw.png)
+
 * **Background Information**
 
 	* Git is a version control system that helps in maintaining the integrity of files while also allowing the developers to work quickly.
