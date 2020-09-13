@@ -12,3 +12,7 @@
 - [x] Created and defined how Continous Integration impacts a company - Michael Drozdowski
 - [] Created and explained GitFlow workflow -
 - [x] Created, defined, and gave examples of Repositories - Michael Drozdowski
+- [x] Created, defined, and gave examples of Fork - Michael Drozdowski
+- [x] Created, defined, and gave examples of Commit - Michael Drozdowski
+- [] Created, defined, and gave examples of Checkout - Michael Drozdowski
+
