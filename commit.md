@@ -1,5 +1,7 @@
 # Basics of Commits in Git
 
+![Diagram of How Commits Work](https://git-scm.com/book/en/v2/images/reset-workflow.png)
+
 * **Definition**
 
 	* Commits in Git can be thought of as snapshots throughout the project timeline. Each commit is an edit, addition, or change that has happened since the last version of the file, repository, or whatever was changed.
