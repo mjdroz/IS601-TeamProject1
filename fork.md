@@ -1,5 +1,7 @@
 # Basics of Forking in Git
 
+![Diagram of How Forking Works](https://svalinn.github.io/DAGMC/_images/workflow.png)
+
 * **Definition**
 
 	* Forking a repository in Git works similar to the "copy and paste" functionality that all computers have. When you fork a repository, you are creating an exact copy of that repository for you to experiment with.
