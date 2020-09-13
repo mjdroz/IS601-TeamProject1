@@ -15,3 +15,4 @@
 	* Repositories allow developers to add new files, commiting changes to files, deleting repositories, and much more!
 	* They are an extremely useful tool for development teams with a large geographical spread. In other words, development teams with member spread out around the globe will likely not be coding at the same time, and definitely not all in the same place. Repositories can help keep the project going without having to eamil over files constantly. The repository will allow developers to clone the newest working copy to their local machines to begin working on whatever they plan to do.
 
+**Source Used for Information:** https://www.geeksforgeeks.org/what-is-a-git-repository/
