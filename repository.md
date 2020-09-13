@@ -1,5 +1,7 @@
 # Basics of Git Repositories
 
+![Diagram of a Repository](https://res.cloudinary.com/practicaldev/image/fetch/s----yED1c8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bpse3acnzkd8tziw7jqb.png)i
+
 * **Definition**
 
 	* Repositories in Git are used to contain a collection of files used for a project. These files can have multiple versions saved within the repository
