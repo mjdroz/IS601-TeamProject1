@@ -18,3 +18,5 @@
 	* Git gives a company a competitive edge by allowing the company to push out development projects and software at a quicker rate.
 	* Along with the decrease in development time, Git allows companies to make quick and seamless changes to products. In the unfortunate case that a change caused more issues than it fixed, Git allows developers to roll back to the original version without having to completely scrap the newly broken one.
 	* Version control systems, like Git, give companies the ability to work at quicker rates, alleviate development issues that come from bug fixes and patches, and expand their workforce into the global market, since the development team does not necessarily have to be in the same time zone or building while working on the project.
+
+**Source Used for Information:** https://www.toolsqa.com/git/what-is-git/
