@@ -16,3 +16,4 @@ e last commit in the working branch. Using "git status" is a good way to see if 
 mit" is a good way to create a snapshot of those changes.
 	* Finally, it is important to remeber that commits do not "push" the changes to the branch. After you commit a change or changes, it is important to then push the new additions or deletions to the repository.
 
+**Source Used for Information:** https://www.atlassian.com/git/tutorials/saving-changes/git-commit
