@@ -1,5 +1,7 @@
 # How Continuous Integration Improves the Productivity and Competitiveness of a Company
 
+![Diagram of Continuous Integration](https://www.automation-consultants.com/wp-content/uploads/continuous-integration-1.png)
+
 * **Background Information**
 
 	* Continuous integration, sometimes referred to as CI, is the process of integrating code changes from multiple developers into a single product using automation.
