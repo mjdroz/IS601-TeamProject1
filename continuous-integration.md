@@ -26,3 +26,5 @@ hen paired with his or her partners code. However, continuous integration relies
 
 	* Continuous integration gives companies a competitive edge by allowing their developers to work in a more coordinated manner in which development issues can be resolved faster and products can be pushed out sooner.
 	* Without coninuous integration companies run the risk of having a disconnect between the developers and project managers at the companies. Continuous integration allows for better communication and coordination channels that can be used by developers and those above them.
+
+**Source Used for Information:** https://www.atlassian.com/continuous-delivery/continuous-integration
