@@ -1,6 +1,6 @@
 # Basics of Status in Git
 
-![Clip Art Image of Status](https://www.google.com/url?sa=i&url=https%3A%2F%2Facompiler.com%2Fgit-commands%2F&psig=AOvVaw2I5qzF8QHV2uPIu7DN8zSe&ust=1600193278992000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICw3dae6esCFQAAAAAdAAAAABAD)
+![Clip Art Image of Status](https://about.gitlab.com/images/blogimages/git-tricks/git-tricks-cover-image.png)
 
 * **Definition**
 
