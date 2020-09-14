@@ -14,5 +14,4 @@
 - [x] Created, defined, and gave examples of Repositories - Michael Drozdowski
 - [x] Created, defined, and gave examples of Fork - Michael Drozdowski
 - [x] Created, defined, and gave examples of Commit - Michael Drozdowski
-- [] Created, defined, and gave examples of Checkout - Michael Drozdowski
-
+- [x] Created, defined, and gave examples of Checkout - Michael Drozdowski
