@@ -1,6 +1,6 @@
 # Basics of Status in Git
 
-![Clip Art Image of Status](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinclipart.com%2Fpindetail%2FiRmiRoh_goal-clipart-goal-line-completion-status-icon-png%2F&psig=AOvVaw3QJ6pzKhLQUiYcmlcrG5lw&ust=1600190679247000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDHm_2U6esCFQAAAAAdAAAAABAN)
+![Clip Art Image of Status](https://www.google.com/url?sa=i&url=https%3A%2F%2Facompiler.com%2Fgit-commands%2F&psig=AOvVaw2I5qzF8QHV2uPIu7DN8zSe&ust=1600193278992000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICw3dae6esCFQAAAAAdAAAAABAD)
 
 * **Definition**
 
