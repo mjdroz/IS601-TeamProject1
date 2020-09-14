@@ -1,5 +1,7 @@
 # Basics of Pulling in Git
 
+![Diagram of Pulling](https://wac-cdn.atlassian.com/dam/jcr:1774e4e9-6945-4a66-9f0f-329f0bef24cb/hero.svg?cdnVersion=1238)
+
 * **Definition**
 
     * The command "git pull" is used to fetch and download content from remote repositories and then update the content on you local machine.
