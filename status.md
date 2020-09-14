@@ -11,3 +11,11 @@
     * Good use of "git status" can lead to changes being committed you go, or, if you forget to commit a change, it will remind you to do so!
     * It is a good idea to use "git status" after editing and saving a file. That way you can see if the changes that you just made actually saved. If not, then you will unfortunately have to go back in and redo them.
     * One last quick tip. When you run "git status", and there is a change, that change will either show up ```<span style="color: red;">red</span>``` or ```<span style="color: green;">green</span>```. Red means that the file was recently created or edited and green means that the file was staged for a commit.
+    
+**Screenshot of Red Text Status**
+
+![Image of Red Status](/StatusRed.PNG)
+
+**Screenshot of Green Text Status**
+
+![Image of Green Status](/StatusGreen.PNG)
