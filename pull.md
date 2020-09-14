@@ -11,3 +11,5 @@
     * As mentioned before, "git pull" is extreme useful in situations where you are working with one or more other people on a project. It enables changes to be made readily available to all group members once they are pushed to the remote repository.
     * Pulling in Git is something that everyone should know how to do as it is fundamental in team based projects.
     * An option for "git pull" that many developers prefer to use is "--rebase", which allows you to pull changes from the remote repository and then add your changes from your local machine on top of what was pulled. Again, this is extremely helpful when working as a team, and saves developers the hassle of having to merge everything together themselves.
+    
+**Source Used for Information:** https://www.atlassian.com/git/tutorials/syncing/git-pull
