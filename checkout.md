@@ -1,5 +1,7 @@
 # Basics of Git Checkouts
 
+![Diagram of Git Checkout](https://static.javatpoint.com/tutorial/git/images/git-checkout.png)
+
 * **Definition**
     
     * The command "git checkout" is used to "checkout" multiple features within a single repository.
