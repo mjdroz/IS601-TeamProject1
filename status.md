@@ -1,5 +1,7 @@
 # Basics of Status in Git
 
+![Clip Art Image of Status](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinclipart.com%2Fpindetail%2FiRmiRoh_goal-clipart-goal-line-completion-status-icon-png%2F&psig=AOvVaw3QJ6pzKhLQUiYcmlcrG5lw&ust=1600190679247000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDHm_2U6esCFQAAAAAdAAAAABAN)
+
 * **Definition**
 
     * The command "git status" is used to keep track of changes to files that you recently made since the last commit.
