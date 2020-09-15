@@ -6,6 +6,11 @@
 
     * The command "git status" is used to keep track of changes to files that you recently made since the last commit.
     * Its formal definition is that it is used to let Git know the status of the working tree.
+    * The command does have some options that you can use. Here are some popular ones:
+        * "-s" - Give the output in short format
+        * "-b" - Show the branch and tracking information in short format
+        * "-v" - Shows the files changed as well as the text that was changed
+        * "-u" - Shows the untracked files
 
 * **Examples and Uses**
 
@@ -22,4 +27,4 @@
 
     ![Image of Green Status](/StatusGreen.PNG)
     
-**Source Used for Information:** https://www.toolsqa.com/git/git-status-command-in-git/
+**Sources Used for Information:** https://www.toolsqa.com/git/git-status-command-in-git/ and https://git-scm.com/docs/git-status
