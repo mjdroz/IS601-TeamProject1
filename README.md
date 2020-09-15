@@ -4,6 +4,8 @@
 ### Stanley Ordonez
 ### Michael Drozdowski
 
+#Links to Each File
+
 # Changelog
 
 - [x] Created and defined how Git impacts a company - Michael Drozdowski
